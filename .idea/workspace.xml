@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76cbc0ec-f623-4113-9184-876c37be6017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django_project/users/templates/users/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_project/users/templates/users/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_project/users/templates/users/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_project/media/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_project/users/signals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/blog/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +38,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nisch\PycharmProjects\django\django_project\media" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,9 +61,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="908" y="266" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.920@0.0.1536.920" timestamp="1592434689577" />
-    <state x="848" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1593009845459">
+    <state x="848" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1593013141830">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="848" y="284" key="com.intellij.ide.util.TipDialog/0.0.1536.920@0.0.1536.920" timestamp="1593009845459" />
+    <state x="848" y="284" key="com.intellij.ide.util.TipDialog/0.0.1536.920@0.0.1536.920" timestamp="1593013141830" />
   </component>
 </project>
